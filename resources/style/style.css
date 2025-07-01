@@ -130,5 +130,5 @@ button:hover {
     pointer-events: none;
 }
 .container {
-    z-index: 1; /* Garante que fique acima dos triângulos */
+    z-index: 1;
 }
