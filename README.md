@@ -6,7 +6,7 @@
 
 ## 🚀 Demonstração
 
-![Preview do projeto](caminho/para/imagem.png)
+![Preview do projeto](/resources/img/gif.gif)
 
 ---
 
