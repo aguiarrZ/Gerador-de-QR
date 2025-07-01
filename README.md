@@ -4,12 +4,6 @@
 
 ---
 
-## 🚀 Demonstração
-
-![Preview do projeto](/resources/img/gif.gif)
-
----
-
 ## 🧪 Funcionalidades
 
 - ✅ Gera QR Codes com links
@@ -33,3 +27,9 @@
 1. Clone o repositório:
    ```bash
    git clone https://github.com/aguiarrZ/Gerador-de-QR.git
+
+---
+
+## 🚀 Demonstração
+
+![Preview do projeto](/resources/img/gif.gif)
