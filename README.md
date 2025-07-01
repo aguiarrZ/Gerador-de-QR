@@ -32,4 +32,4 @@
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seunome/seurepositorio.git
+   git clone https://github.com/aguiarrZ/Gerador-de-QR.git
